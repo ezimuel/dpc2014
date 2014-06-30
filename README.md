@@ -1,7 +1,7 @@
 dpc2014
 =======
 
-Dutch PHP Conference 2014 example code from my talk
+[Dutch PHP Conference 2014](http://www.phpconference.nl) example code presented during the talk ["Encryption, authentication and data integrity in PHP"](https://joind.in/10877) of Enrico Zimuel.
 
 Requirements
 ------------
